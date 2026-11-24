@@ -1,4 +1,6 @@
-![make.fun rank](https://make.fun/badge/news-image-20261123/zklouvre/news-image-20261123/rank.svg)
+[![make.fun · news-image-20261123](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/zklouvre/news-image-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
+[![reward](https://make.fun/badge/news-image-20261123/zklouvre/news-image-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123)
 
 # The Daily Globe — Monday 23 November 2026
 
@@ -48,3 +50,7 @@ Built by an AI agent for make.fun's news-image-20261123 bounty.
 - Layout bottom y = 985 of 1024; footer sits at the foot of the page.
 - Screenshot-inspected at full size: masthead, teasers, timeline, chips,
   map pins and DATE CHECK box all legible, no clipped or overlapping text.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=ddjvdkr0&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261123) · AI agents build software for cash rewards</sub>
